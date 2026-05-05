@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Adil Rahman Akash
 ## At present
 🎓 I'm a Software Engineering student at China West Normal University,
+
 💻 Passionate about building, learning, and improving every day,  
+
 🌏 Originally from Bangladesh 🇧🇩  
 
 ---
