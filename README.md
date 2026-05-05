@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Adil Rahman Akash
-
-🎓 Software Engineering student at China West Normal University  
-💻 Passionate about building, learning, and improving every day  
+## Hi there 👋, I'm Adil Rahman Akash
+## At present
+🎓 I'm a Software Engineering student at China West Normal University,
+💻 Passionate about building, learning, and improving every day,  
 🌏 Originally from Bangladesh 🇧🇩  
 
 ---
@@ -16,12 +16,26 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adil.akash.359113460052) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adilakash23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adilakash23@gmail.com) 
 
-- 💻 Languages: C, Java, HTML, CSS, React, Python
-- 🗄️ Database: SQL
-- ⚙️ Tools: Git, GitHub, VS Code
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AdilAkash21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AdilAkash21&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdilAkash21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AdilAkash21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=AdilAkash21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 📌 Projects
@@ -29,10 +43,10 @@
 Here are a few things I've worked on:
 
 - 🐍 Snake Clash Game (C project)
-- 🌐 Personal Portfolio Website (HTML, CSS, React with javascript)
+- 🌐 Personal Portfolio Website (HTML, CSS, React with JavaScript)
 - 💰 Personal Finance Tracker (JavaScript)
 
 
 ## ⚡ Fun Fact
 
-I love mixing creativity with coding and turning ideas into real projects.
+I love blending creativity with coding to turn ideas into real projects.
