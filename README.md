@@ -18,6 +18,21 @@
 
 ---
 
+## 📌 Projects
+
+Here are a few things I've worked on:
+
+- 🐍 Snake Clash Game (C project)
+- 🌐 Personal Portfolio Website (HTML, CSS, React with JavaScript)
+- 💰 Personal Finance Tracker (JavaScript)
+
+
+## ⚡ Fun Fact
+
+I love blending creativity with coding to turn ideas into real projects.
+
+---
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adil.akash.359113460052) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adilakash23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adilakash23@gmail.com) 
 
@@ -40,15 +55,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 📌 Projects
-
-Here are a few things I've worked on:
-
-- 🐍 Snake Clash Game (C project)
-- 🌐 Personal Portfolio Website (HTML, CSS, React with JavaScript)
-- 💰 Personal Finance Tracker (JavaScript)
-
-
-## ⚡ Fun Fact
-
-I love blending creativity with coding to turn ideas into real projects.
