@@ -24,7 +24,7 @@ Here are a few things I've worked on:
 
 - 🐍 Snake Clash Game (C project)
 - 🌐 Personal Portfolio Website (HTML, CSS, React with JavaScript)
-- 💰 Personal Finance Tracker (JavaScript)
+- 💰 Personal Finance Tracker (Python)
 
 
 ## ⚡ Fun Fact
