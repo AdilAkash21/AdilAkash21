@@ -46,12 +46,8 @@ I love blending creativity with coding to turn ideas into real projects.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdilAkash21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=AdilAkash21&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/e810dfd2-6e6d-46be-9a80-92cf29abc487" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+
 
