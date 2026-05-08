@@ -43,7 +43,7 @@ I love blending creativity with coding to turn ideas into real projects.
 ![](https://streak-stats.demolab.com/?user=AdilAkash21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdilAkash21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -52,9 +52,9 @@ I love blending creativity with coding to turn ideas into real projects.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+
 
 <img width="1920" height="1080" alt="githubgif" src="https://github.com/user-attachments/assets/e810dfd2-6e6d-46be-9a80-92cf29abc487" />
 
----
+
 
